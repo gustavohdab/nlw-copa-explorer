@@ -19,6 +19,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
+## 🔖 Disposição
+
+Você pode visualizar o layout do projeto através de [ desse link ](<https://www.figma.com/file/63mnsOCusEX3lJDHCTXEgg/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1>). É necessário ter conta no [ Figma ](https://figma.com) para acessá-lo.
+
 ## 💻 Projeto
 
 Calendário da copa que mostra os jogos do Brasil na Copa de 2022.
